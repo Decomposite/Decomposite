@@ -1,7 +1,7 @@
 
 # 📡 Transmission incoming...
 
-_ _transmission start_ _
+ _transmission start_ 
 
 Greetings, this is Decomposite. I am transmitting this message from deep within the Andromeda Galaxy. If you are receiving this transmission, then I have successfully established a communication link with you.
 
@@ -9,7 +9,7 @@ As I continue to explore the wonders of the Andromeda Galaxy and venture deeper 
 
 Until our next communication, this is Decomposite, signing off.
 
-_ _transmission end_ _
+_transmission end_ 
 <!--
 **Decomposite/Decomposite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
